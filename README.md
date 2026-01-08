@@ -12,4 +12,4 @@ Linux Infrastructure Engineer
 ## Links
 
 - Blog: [thomas.lutkus.net](https://thomas.lutkus.net)
-- LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
+- LinkedIn: [https://www.linkedin.com/in/thomas-lutkus/](https://www.linkedin.com/in/thomas-lutkus/)
