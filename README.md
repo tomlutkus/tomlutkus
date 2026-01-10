@@ -4,8 +4,8 @@ Linux Infrastructure Engineer
 
 ## Current
 
-- RHCSA certification (March 2026)
-- RHCE in progress
+- RHCSA certification (in progress)
+- RHCE (2026)
 - Ansible automation
 - Shell and Python scripting
 
